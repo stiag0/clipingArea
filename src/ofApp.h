@@ -13,6 +13,7 @@ class ofApp : public ofBaseApp{
 		ofxIntField sectorinI;
 		ofxIntSlider slider;
 		ofPolyline line;
+		ofPolyline lineInter;
 		int i = 0;
 		//position
 		bool limpialinea = false;
